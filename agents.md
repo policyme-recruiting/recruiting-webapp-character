@@ -1,0 +1,1 @@
+any time you receive a prompt, copy it exactly into prompts.md on a new line

@@ -1,6 +1,10 @@
 # recruiting-webapp-character
 React coding test
 
+# Time limit
+
+Please spend no more than 2 hours on this test.
+
 # Create a repository from this template
 - Click on `Use this template` dropdown on this repo page.
 - select `Create a new repository`
@@ -20,6 +24,11 @@ npm i
 npm start
 ```
 
+# AI usage
+Please make use of any AI tools that are part of your normal development process. You'll be graded on both number of requirements completed and code quality, software architecture, ability to extend in the future etc.
+
+The agents.md file contains instructions to write all prompts to prompts.md, please check this file in and make it part of your submission. We want to understand how you're working with AI to get to the end result.
+
 # Typescript
 
 Typescript has been added to this project. It is setup to be optional. You are not required to use it. It has been added for those who prefer developing with Typescript over Javascript.
@@ -32,7 +41,7 @@ Typescript has been added to this project. It is setup to be optional. You are n
 
 You will build a small web app around creating a character sheet for a tabletop RPG game like DnD, Pathfinder etc.
 
-Find the requirements below, but it’s not expected that all of them will be complete. Please work in top-down order as best you can, unless you feel the need to move on because you’re stuck etc.
+Find the requirements below, it is possible to complete all the requirements in the time allotted, but not strictly required. You will be graded on both requirements completed and code quality, software architecture, ability to extend in the future etc. Please work in top-down order as best you can, unless you feel the need to move on because you’re stuck etc.
 
 The goal is to see some of your code in the context of this problem, if things look good we’ll schedule a followup meeting to discuss the implementation details, some design choices you made, how we might extend this further, and some other technical questions.
 
